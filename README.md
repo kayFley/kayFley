@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is -kF / kayFley
-![](https://komarev.com/ghpvc/?username=kayFley&base=1000)
+![](https://komarev.com/ghpvc/?username=kayFley&base=1199)
 
 **Skills: NEXT.JS / REACT / TS / HTML / CSS**
 
