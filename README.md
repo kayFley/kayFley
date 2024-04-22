@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=kayFley)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayFleyt&theme=default&base=1000)
+![](https://komarev.com/ghpvc/?username=kayFley&base=1000)
