@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=kayFley&base=1000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&layout=compact&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&layout=compact&theme=dark)]
