@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=kayFley&base=1000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&layout=compact&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayFleyt&theme=default)
