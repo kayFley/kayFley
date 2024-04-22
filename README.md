@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=kayFley)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?kayFley=daniilshat&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayFleyt&theme=default)
