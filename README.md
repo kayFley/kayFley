@@ -4,4 +4,4 @@
 
 Skills: NEXT.JS / REACT / TS / HTML / CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
