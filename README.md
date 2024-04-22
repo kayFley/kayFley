@@ -5,13 +5,13 @@ Skills: NEXT.JS / REACT / TS / HTML / CSS
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kayFley&theme=default)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kayFley&theme=dark)](https://github.com/ryo-ma/github-profile-trophy) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayFley&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayFley&show_icons=true&theme=default)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayFley&show_icons=true&theme=dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kayFley&theme=default)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kayFley&theme=dark)  
 
 
 
